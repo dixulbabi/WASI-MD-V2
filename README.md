@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="(https://chat.whatsapp.com/Lm2jS45bor47gNpchxoq9W)">
-    <img alt="wasi" height="300" src="(https://telegra.ph/file/0f61483efa85ab8f996e5.jpg">
+    <img alt="wasi" height="300" src="(https://telegra.ph/file/0f61483efa85ab8f996e5.jpg)">
     <h1 align="center">rush v10 V2</h1>
   </a>
 </p>
