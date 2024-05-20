@@ -1,12 +1,8 @@
 <p align="center">  
-  <a href="(https://chat.whatsapp.com/Lm2jS45bor47gNpchxoq9W)">
-    <img alt="wasi" height="300" src="(https://telegra.ph/file/0f61483efa85ab8f996e5.jpg)">
-    <h1 align="center">rush v10 V2</h1>
-  </a>
+  <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/9f5aac1b37d65de4c725c.jpg">
+    <h1 align="center">WASI MD V2</h1>
 </p>
-<p align="center">
-<a href="https://github.com/Itxxwasi"><img title="Author" src="https://img.shields.io/badge/Itxxwasi-black?style=for-the-badge&logo=Github"></a> <a href="https://telegra.ph/file/0f61483efa85ab8f996e5.jpg"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/762498519"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
-<p/>
 <p align="center">
 <a href="https://github.com/Itxxwasi?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Itxxwasi?label=Followers&style=social"></a>
 <a href="https://github.com/Itxxwasi/WASI-MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itxxwasi/WASI-MD-V2?&style=social"></a>
