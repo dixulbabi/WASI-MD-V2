@@ -1,7 +1,7 @@
 <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/9f5aac1b37d65de4c725c.jpg">
-    <h1 align="center">WASI MD V2</h1>
+  <a href="https://chat.whatsapp.com/Lm2jS45bor47gNpchxoq9W">
+    <img alt="rush" height="300" src="https://telegra.ph/file/0f61483efa85ab8f996e5.jpg">
+    <h1 align="center">RUSH V2</h1>
 </p>
 <p align="center">
 <a href="https://github.com/Itxxwasi?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Itxxwasi?label=Followers&style=social"></a>
