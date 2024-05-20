@@ -1,6 +1,6 @@
 {
-   "name": "wasi-md-v2",
-   "version": "2.5.0",
+   "name": "rush-v-10",
+   "version": "2.5",
    "description": "Multi device whatsapp bot by itxxwasi ....",
    "main": "index.js",
    "type": "commonjs",
